@@ -82,4 +82,4 @@ production:
   <<: *default
   database: LinkingWords_production
   username: LinkingWords
-  password:
+  password: 12345678
